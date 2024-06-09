@@ -296,4 +296,4 @@ class WZMLStyle:
 ┠<b> Leech Suffix :</b> <code>{LSUFFIX}</code>
 ┠<b> Leech Dumps :</b> <code>{LDUMP}</code>
 ┖<b> Leech Remname :</b> <code>{LREMNAME}</code>
-┠<b>Metadata Text:</b> <code>{lmeta}</code>'''
+┠<b>Metadata Text:</b> <code>{LMETADATA}</code>'''
